@@ -12,5 +12,5 @@ step5:  Converting the data into Bag of words model
 step6:  Transforming the bag of words model into TF-IDF model    
 step7:  Splitting the data into training and testing data     
 step8:  Training the classifier using logistic regression model    
-step9:  Testing the model performance
+step9:  Testing the model performance     
 step10: Saving our model in pickle files    
