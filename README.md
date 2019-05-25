@@ -4,7 +4,7 @@ In these days all are showing interest to read the online reviews. These reviews
 
 # Step involved in classifying the reviews
 
-step1:  Importing the libraries
+step1:  Importing the libraries \n
 step2:  Importing the dataset
 step3:  Persisting the dataset
 step4:  Preprocessing the data
