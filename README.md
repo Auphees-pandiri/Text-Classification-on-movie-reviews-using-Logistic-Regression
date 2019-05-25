@@ -4,13 +4,13 @@ In these days all are showing interest to read the online reviews. These reviews
 
 # Step involved in classifying the reviews
 
-step1:  Importing the libraries \n
-step2:  Importing the dataset
-step3:  Persisting the dataset
-step4:  Preprocessing the data
-step5:  Converting the data into Bag of words model
-step6:  Transforming the bag of words model into TF-IDF model
-step7:  Splitting the data into training and testing data
-step8:  Training the classifier using logistic regression model
+step1:  Importing the libraries      
+step2:  Importing the dataset    
+step3:  Persisting the dataset      
+step4:  Preprocessing the data      
+step5:  Converting the data into Bag of words model    
+step6:  Transforming the bag of words model into TF-IDF model    
+step7:  Splitting the data into training and testing data     
+step8:  Training the classifier using logistic regression model    
 step9:  Testing the model performance
-step10: Saving our model in pickle files
+step10: Saving our model in pickle files    
