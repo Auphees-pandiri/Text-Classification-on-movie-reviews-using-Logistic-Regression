@@ -2,7 +2,7 @@
 In these days all are showing interest to read the online reviews. These reviews could be movie reviews, product reviews, restaurant reviews etc. But there will be bulk of reviews in online. Reading those much of bulk of reviews is not possible within short span of time.So I created a M/L model which can classify those reviews as positive or negative.
 
 
-# Step involved in classifying the reviews
+# Steps involved in classifying the reviews
 
 step1:  Importing the libraries      
 step2:  Importing the dataset    
